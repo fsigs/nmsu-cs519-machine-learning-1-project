@@ -1,0 +1,16 @@
+
+Below are the task for the project assignment PS2: 
+
+  Task: Selecting a real world problem and write the motivation behind selecting it 
+  Responsible: Ishtiaq, Israel
+
+  Task: Write the Problem Definition
+  ResponsibleL: Ishtiaq
+
+  Task: Select the Machine Learning task
+  Responsible: Israel, Ishtiaq
+
+  Task: Related works
+  Responsible: Ishtiaq,Israel
+
+
