@@ -1,16 +1,15 @@
+Below are the task assigned for the project state 3 (PS3):
 
-Below are the task for the project assignment PS2: 
+1. Brief description of the dataset: Ishtiaq
+2. Creating a data dictionary: Ishtiaq
+3. Create a summary of the dataset (no of rows, columns, how many null values, unique values, etc) :Ishtiaq
+4. Cleaning the dataset (discard the null columns, single value columns): Ishtiaq
+5. Organize columns in different category: Ishtiaq
+6. Creatin the prediction column for churn: Israel
+7. Check if the problem is linear or non-linear: Israel
+8. Standardize the dataset: Israel 
+9. Doing primary component analysis and feature selection: Israel
+10. Apply one classification technique: Israel
+11. Prepare report: Ishtiaq & Israel
 
-Task: Selecting a real world problem and write the motivation behind selecting it 
-Responsible: Ishtiaq, Israel
-
-Task: Write the problem definition
-ResponsibleL: Ishtiaq
-
-Task:Selecting the machine learning task
-Responsible: Israel, Ishtiaq
-
-Task:Related works
-Responsible: Ishtiaq,Israel
-
-
+ 
