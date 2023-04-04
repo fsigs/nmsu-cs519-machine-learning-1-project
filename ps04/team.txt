@@ -1,15 +1,13 @@
-Below are the task assigned for the project state 3 (PS3):
+Below are the task assigned for the project state 4 (PS4):
 
-1. Brief description of the dataset: Ishtiaq
-2. Creating a data dictionary: Ishtiaq
-3. Create a summary of the dataset (no of rows, columns, how many null values, unique values, etc) :Ishtiaq
-4. Cleaning the dataset (discard the null columns, single value columns): Ishtiaq
-5. Organize columns in different category: Ishtiaq
-6. Creatin the prediction column for churn: Israel
-7. Check if the problem is linear or non-linear: Israel
-8. Standardize the dataset: Israel 
-9. Doing primary component analysis and feature selection: Israel
-10. Apply one classification technique: Israel
-11. Prepare report: Ishtiaq & Israel
+For this part of the project, we adopted pair programming approach. We sat together and develope the solution together. 
+
+1. Balancing the dataset: Ishtiaq & Israel
+2. Primary component analysis and feature selection: Ishtiaq & Israel
+3. Kernel primary component analysis:Ishtiaq & Israel
+4. Use logistic regression classifier and check performance metrics: Ishtiaq & Israel
+5. Use decision tree classifier and check performance metrics: Ishtiaq & Israel
+6. Update possible anaysis task in the report: Ishtiaq & Israel
+7. Prepare the performance report: Ishtiaq & Israel
 
  
