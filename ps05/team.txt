@@ -1,0 +1,14 @@
+Below are the task assigned for the project state 5 (PS5):
+
+
+1. Create final report draft: Ishtiaq
+2. Report review and modification for submission: Israel
+3. Modify logistic regression and decision tree classifier: Israel
+4. Modify code to check performance parameter for both training and testing data: Israel 
+5. Use KNN classifier and check performance metrics: Ishtiaq
+6. Create readme.txt: Ishtiaq
+
+Although individual names are assigned for each task, in reality most of the task for whole project we did together (jointly working in lab)
+
+
+ 
